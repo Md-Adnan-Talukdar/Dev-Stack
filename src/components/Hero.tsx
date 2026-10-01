@@ -32,7 +32,7 @@ const Hero = () => {
 
           <div className="w-1/2 flex justify-center max-w-md drop-shadow-2xl">
             <img 
-              src="/src/assets/banner-stack.png" 
+              src="/banner-stack.png" 
               alt="Development Stack" 
               className="rounded-lg shadow-lg" 
             />
