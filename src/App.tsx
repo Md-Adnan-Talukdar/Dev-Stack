@@ -45,9 +45,12 @@ function App() {
       <div>
         <Navbar />
         <Hero />
-          <h1 className="bg-gradient-to-r from-violet-900 via-teal-500 to-rose-500 bg-clip-text text-3xl font-bold text-transparent">
+          <h1 className="bg-gradient-to-r from-violet-900 via-teal-500 to-rose-500 bg-clip-text text-3xl font-bold text-transparent mx-30 my-8">
             Explore The Technologies
           </h1>
+          <p className="text-slate-500 text-sm max-w-lg mx-30 my-8">
+            Pick one technology per category to build your ideal stack
+          </p>
         <div className="max-w-7xl mx-auto p-6">
           <div className="grid grid-cols-4 gap-6">
             <div className="col-span-3 grid grid-cols-3 gap-6">
