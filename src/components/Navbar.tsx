@@ -19,8 +19,8 @@ const Navbar = () => {
             <li>Contact</li>
          </ul>
          <div className="flex items-center gap-3">
-             <button className="btn btn-active btn-success border-b-black rounded-b-md">Sign In</button>
-<button className="btn btn-active btn-success border-b-black rounded-b-md">Sign Up</button>
+             <button className="btn btn-active btn-success border-b-2 ">Sign In</button>
+<button className="btn btn-active btn-success border-b-2 ">Sign Up</button>
     </div>
          </div>
  
