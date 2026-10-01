@@ -6,9 +6,8 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex justify-between items-start mb-8">
           <div>
-            <div className="flex items-center gap-2 font-bold text-lg mb-2">
-              <span className="bg-pink-500 text-white px-2 py-0.5 rounded text-xs">DS</span>
-              <span>Dev <span className="text-pink-500">Stack</span></span>
+            <div className="mb-2">
+              <img src="/logo-text.png" alt="Dev Stack" className="h-7 object-contain" />
             </div>
             <p className="text-slate-500 text-xs max-w-xs mb-4">
               Curated tools, technologies, and resources for developers building modern software.
