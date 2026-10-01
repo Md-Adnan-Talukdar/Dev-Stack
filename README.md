@@ -1,3 +1,32 @@
+# DevStack 🚀
+
+## 📝 Description
+DevStack is a modern, minimalist web application built to help developers explore, organize, and select technology stacks for their software projects. Featuring an intuitive high-contrast UI, users can browse through various tools and technologies, compare them, and curate their custom tech stack in real-time.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend Framework:** React (Vite)
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS, DaisyUI
+- **Data Source:** Custom JSON (`technologies.json`)
+
+---
+
+## ✨ Key Features
+
+1. **Interactive Tech Catalog:** Browse through frontend, backend, database, and dev tools with clear categorization, difficulty levels, and ratings.
+2. **Real-time Selected Stack Sidebar:** Easily add or remove technologies to/from your custom stack with dynamic selection counts and real-time state updates.
+3. **High-Contrast Minimalist UI:** Designed with a sleek `slate`/`zinc`/`black` color palette, custom violent/purple hero accents, and responsive layout grids.
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
